@@ -1,0 +1,15 @@
+	Michigan State Universty's homepage change dramatically recently. The new site is much better
+then the old one. Starting with the arangement from the top down the website displayes, in large semi-block
+letters, "Michigan State University."There is no doubt were you are after first comming to the page. 
+THe site has a search box in the classic style being at the top right. Just below the headings the site 
+has various tabs in which to navigate. Just below that is a slide show that showcases a few of the things 
+that MSU you students maybe doing or projects that is being worked on. from there it goes on with some news 
+and misc. things. Most notably it uses a row formate on the main page that is not part of the site once one 
+navigates some where else. 
+	The color of the MSU site is very simple. It follows the colors of msu, green and white and veraitions
+of them, which is in itself a plesent color scheme and is very effective for the site. Another thing to note
+is the initial font and style of the "Michigan State University" header remains throught the website and 
+is a good reacuring style. Over all the new website is very effective, however one major difficulty I have 
+with it is that no one is really intersted in anything that is on the main site, other then the casual surfer.
+The tabs of the top are the first things clicked so there content should be showcased more then messing around 
+with all the drop down, scrolling set up, that currently is implemented.    
