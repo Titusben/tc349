@@ -1,0 +1,12 @@
+	Chartbeat is an interesting site. Its formated in a single column and then Using diffrent colors 
+form rows of its content. To start with its color it uses a wide varitey of intresting color and the texture 
+the site uses gives it a very pastel feel wich is visually very pleasing to the eye. It also lends to the 
+credability of there product as they use the words revolutionalry and prograessive in there speach about it, 
+thus there product is aplified by the look and feel of the website. Many animations are also part of the site 
+which gives it a new a fresh feel, like it was just created and at the forfront of modern webdesign. 
+	Chartbeat does not have a very traditional design. It is section in rows and the user must scroll down
+to access the content. However these rows are divided into cells using the sites own design elemnets making it 
+easy to read and understand. It also has very little content in the form of words and a lot of content in graphics. 
+It gives an interactive feel without actually being interactive. What is most intresting is the webpage updates in 
+real time apposed to having to refresh which also pushes the product because it shows how proficient the developers
+are. Overall this is a very effective website and is the most engaging I have seen so far. 
