@@ -1,0 +1,17 @@
+Heroku Critique
+
+Heroku is an interesting website. Let’s start with color. Heroku uses a dark purple, gray and black palette, 
+but there is more. Beyond that intriguing color design small splashes of color also make its appearance 
+drawing the eye around the website where the creator wishes one to look. Another aspect of its color 
+design is when the cursor is over an interactive object interesting things happen.  This could mean 
+filling in lifelike color that gives more intensity to the object that differs from the normal color scheme 
+or it highlights the object in unique ways. Heroku uses color very well in there site. 
+
+The format of the page is simple but highly effective. Heroku uses a common top down approach while usually 
+sticking to the two column systems. But beyond that are the animations that Heroku has incorporated as well 
+as very helpful and easy to see menus and buttons. They also use an advertising approach to some of their more 
+interesting buttons.  They say things like observe, command, and relax opposed to more traditional assertions. 
+This may lead to some confusion but it’s enjoyable to explore the site and engage with it longer then would 
+one would normally. 
+
+Overall Heroku is an interesting and engaging site and is very effective and advanced. I enjoyed it very much. 
