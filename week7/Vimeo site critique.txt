@@ -1,0 +1,18 @@
+      Vimeo is a video upload site whose content is all users generated. It’s similar to 
+YouTube. However, where YouTube is a site specifically for sharing with larger audience 
+Vimeo is more for uploading and linking friends to videos. Evidence to this affect is apparent 
+when Vimeo requires one to log in before entering the main content area of the site. This is why 
+they put the log in right in the center of the screen instead of to the top right. But, to critique 
+Vimeo is the assignment. So, Vimeo’s main page is a classic single column design with variable 
+changes along the way. It changes to a non-fluid multi-column layout half way down and then 
+back again to a single column layout. It also has a series of non-tiled background that showcase 
+the different types of content within the site. 
+	How effective is it? Well the color scheme is pleasing and the background is very well 
+done. But, I find that I am doing an awful lot of scrolling particularly when you click on a link 
+and change your mind and go back to the main page I have to scroll a bunch to get to different 
+content. One interesting effect that I think adds a nice web 2.0 feel is that the conent shifts down 
+when you hover over drop down tabs at the top of the screen, this mixed with the animations in 
+the background gives it a nice feel. But, by looking at those things alone it would be difficult to 
+discern the purpose of the site. Perhaps it would be more intuitive to have content in the 
+background that represents the sites content better. So, Vimeo is effective but it definitely could 
+use a little refinement. 
