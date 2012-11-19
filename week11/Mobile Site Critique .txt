@@ -1,0 +1,20 @@
+
+
+MSUFCU Mobile Site Critique by Benjamin Titus
+
+MSU federal credit union’s mobile site starts with the main page. Dead center of the page is the 
+login/password fields so one can access their accounts. This is smart because for most people 
+that’s the main reason for using the site. The layout continues by scrolling down and they have a 
+series of tabs that take you to another page. The first one is locations followed by rates, contact 
+us and more. These are in a logical order of importance when looking at the use of the site on a 
+mobile device. Clicking on one of them takes you to a different page where the information is 
+readily displayed or if more information is required more horizontal buttons are displayed.  This 
+is an ok way of doing things but it’s very bland and the information is rather sparse. It contains 
+very little information beyond that of the bare minimum. 
+
+The site is well laid out and does follow standard color schemes of MSU, white and green, which 
+just so happens to complement each other and make for a very easy reading atmosphere. 
+However, there is very little content on the site. There isn’t any interesting graphics and the 
+whole site is devoid of any kind of picture. But overall the site is effective and loads fast. It’s 
+interesting how different it is from the app however. It seems logical they could have followed a 
+similar approach. Overall its effective but very sterile.  
